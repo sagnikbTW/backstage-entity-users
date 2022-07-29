@@ -8,3 +8,15 @@ metadata:
     picture: 
 spec:
   memberOf: [thoughtworks, awesome-project]
+---
+
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: sagnikbTW
+  profile:
+    displayName: Sagnik Bandyopadhyay
+    email: sagnik.b@thoughtworks.com
+    picture:
+spec:
+  memberOf: [awesome-pet]

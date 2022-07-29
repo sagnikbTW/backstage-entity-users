@@ -1,0 +1,9 @@
+# platform engineering team
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: awesome-pet
+  description: Awesome Platform Engineering Team
+spec:
+  type: team
+  children: []

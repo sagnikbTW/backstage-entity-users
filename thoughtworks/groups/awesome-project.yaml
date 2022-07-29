@@ -5,4 +5,4 @@ metadata:
   description: Awesome Project Team
 spec:
   type: team
-  children: []
+  children: [awesome-pet]
