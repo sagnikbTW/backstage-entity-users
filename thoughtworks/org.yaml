@@ -8,3 +8,4 @@ spec:
     - ./groups/awesome-project.yaml
     - ./groups/tw.yaml
     - ./users/users.yaml
+    - ./groups/pet.yaml
